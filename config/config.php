@@ -2,8 +2,8 @@
 
 $db = array();
 $db['host'] = 'localhost'; 
-$db['user'] = 'gaspard'; // utilisateur
-$db['pass'] = 'xxx'; //password
+$db['user'] = 'root'; // utilisateur
+$db['pass'] = ''; //password
 $db['base'] = 'mvc_session'; //nom de la base de donnee
 
 /*
